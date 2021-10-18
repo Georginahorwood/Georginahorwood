@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Georginahorwood
-- 👀 I’m interested in data analytics
+- 👋 Hi, I’m @Georgihorwood
+- 👀 I’m interested in talking to software engineers about projects and awesome job opportunities I have available!
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me georgihorwood7@gmail.com
